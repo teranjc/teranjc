@@ -1,4 +1,4 @@
-# Hola 👋 Mi nombre es Jesus Terán
+# Hola 👋 Mi nombre es Jesus Teran Cervantes
 
 ## Frontend Developer
 
@@ -30,10 +30,8 @@ Desarrollador con más de dos años de experiencia generando aplicaciones web, s
 ### Sociales
 
 <p align="left"> <a href="https://github.com/teranjc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/teranjc_" target="_blank" rel="noreferrer">
-
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jes%C3%BAs-ter%C3%A1n-cervantes-4538191ba/" target="_blank" rel="noreferrer">
 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/el_rafinia" target="_blank" rel="noreferrer">
 
 ### Ayudame
 

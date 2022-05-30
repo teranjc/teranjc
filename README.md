@@ -7,7 +7,7 @@ Desarrollador con más de dos años de experiencia generando aplicaciones web, s
 
 - 🌍  Radico en Cuernavaca, Morelos, México
 - 🖥️  Mira mi portafolio [Sitio web](https://jesusterancervantes.netlify.app/)
-- ✉️  Puedes contactarme por mi correo [jrnc9802@gmail,com](mailto:jesusterancervantes@gmail.com)
+- ✉️  Puedes contactarme por mi correo [jesusterancervantes@gmail.com](mailto:jesusterancervantes@gmail.com)
 - 🧠  Estoy aprendiendo Reactjs
 - 🤝  Estooy abierto a colabaciones de mitad de tiempo
 - ⚡  Programador web con más de dos años de experiencia en el desarrollo de aplicaciones y sitios web con HTML, CSS y JavaScript.

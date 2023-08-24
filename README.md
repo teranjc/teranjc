@@ -5,10 +5,8 @@
 Mi curiosidad tecnológica y mi actitud positiva me impulsaron a iniciar una carrera en la tecnología, como desarrollador, aspiro a crear productos tecnológicos innovadores que faciliten la vida de las personas.
 Desarrollador con más de dos años de experiencia generando aplicaciones web, sitios web, aplicaciones móviles, habilidades en MySQL, SQL, MongoDB, Firebase, HTML5, CSS, Sass, AJAX, jQuery, Git, Java, Javascript, React, Redux, Node.js, Vue.js, Vuex, Express
 
-- 🌍  Radico en Cuernavaca, Morelos, México
 - 🖥️  Mira mi portafolio [Sitio web](https://jesusterancervantes.netlify.app/)
 - ✉️  Puedes contactarme por mi correo [jesusterancervantes@gmail.com](mailto:jesusterancervantes@gmail.com)
-- 🧠  Estoy aprendiendo Reactjs
 - 🤝  Estooy abierto a colabaciones de mitad de tiempo
 - ⚡  Programador web con más de dos años de experiencia en el desarrollo de aplicaciones y sitios web con HTML, CSS y JavaScript.
 

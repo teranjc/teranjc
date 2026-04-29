@@ -1,7 +1,3 @@
-Aquí tienes una versión más clara, profesional y consistente, manteniendo tu enfoque pero mejor estructurada y sin redundancias:
-
----
-
 # Hola 👋 Soy Jesus Terán Cervantes
 
 ## Frontend Developer
